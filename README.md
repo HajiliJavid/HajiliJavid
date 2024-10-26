@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HajiliJavid
-- 👀 I’ve learned software and engineering, and for the last 1 year I have been studing in several courses to be a Full stack developer as well
+- 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack developer as well
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on interesting StarUp projects
 - 📫 How to reach me hajilijavid2004@gmail.com
