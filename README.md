@@ -26,7 +26,7 @@
       <img src="https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
     </a>
   </div>
-  <img align="right" height="150" width="35%" src="https://i.imgflip.com/65efzo.gif" />
+  <img align="right" height="150" width="35px" src="https://i.imgflip.com/65efzo.gif" />
 </div>
 
 ## 🌐 Socials:
