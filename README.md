@@ -1,8 +1,8 @@
 ![MasterHead](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
-<h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
+<h1 align="center">Hi 👋, I'm Javid Hajili</h1>
 <h3 align="center">I am a Software Developer/Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HajiliJavid&label=Profile%20views&color=0e75b6&style=flat" alt="farhadfreestyle" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HajiliJavid&label=Profile%20views&color=0e75b6&style=flat" alt="HajiliJavid" /> </p>
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
