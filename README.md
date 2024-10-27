@@ -10,22 +10,22 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px; width: 100%; max-width: 800px; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; max-width: 800px; margin: auto;">
   <div style="flex: 1;">
     <h3 align="left">About Me</h3>
-    - 👀 I am a software engineer/data scientist <br>
-    - 🌱 I’m currently learning AI and Machine Learning <br>
-    - 💞️ I’m looking to collaborate on interesting StartUp projects <br>
-    - 📫 How to reach me: hajilijavid2004@gmail.com <br>
-    - 😄 Pronouns: he/him <br>
-    - ⚡ Fun fact: ...
-    <br><br>
+    <p>- 👀 I am a software engineer/data scientist</p>
+    <p>- 🌱 I’m currently learning AI and Machine Learning</p>
+    <p>- 💞️ I’m looking to collaborate on interesting StartUp projects</p>
+    <p>- 📫 How to reach me: hajilijavid2004@gmail.com</p>
+    <p>- 😄 Pronouns: he/him</p>
+    <p>- ⚡ Fun fact: ...</p>
+    <br>
     <a href="https://visitcount.itsvg.in" target="_blank">
       <img src="https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
     </a>
   </div>
   <div>
-    <img height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;" />
+    <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
   </div>
 </div>
 
