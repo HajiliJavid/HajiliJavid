@@ -23,7 +23,7 @@
 <div style="display: flex; flex-direction:row ; gap: "20" ; width="50%"; ">
   <h3 align="left">About Me</h3>
   <div>
-  - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack         developer as well <br>
+  - 👀 I am a software engineering/data science <br>
   - 🌱 I’m currently learning AI and Machine Learning <br>
   - 💞️ I’m looking to collaborate on interesting StarUp projects <br>
   - 📫 How to reach me hajilijavid2004@gmail.com <br>
