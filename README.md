@@ -1,16 +1,19 @@
 <h2 align="center" >Hi 👋! My name is Javid</h2>
-- 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack developer as well <br>
-- 🌱 I’m currently learning AI and Machine Learning <br>
-- 💞️ I’m looking to collaborate on interesting StarUp projects <br>
-- 📫 How to reach me hajilijavid2004@gmail.com <br>
-- 😄 Pronouns: he/him <br>
-- ⚡ Fun fact: ... 
-<br>
-<br>
+<div >
+  <div>
+  - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack         developer as well <br>
+  - 🌱 I’m currently learning AI and Machine Learning <br>
+  - 💞️ I’m looking to collaborate on interesting StarUp projects <br>
+  - 📫 How to reach me hajilijavid2004@gmail.com <br>
+  - 😄 Pronouns: he/him <br>
+  - ⚡ Fun fact: ... 
+  <br>
+  <br>
 
-[![](https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
+  [![](https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+</div>
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
 <!---
 HajiliJavid/HajiliJavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
 
 
 
