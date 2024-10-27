@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Javid Hajili</h1>
 <h3 align="center">I am a Software Developer/Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HajiliJavid&label=Profile%20views&color=0e75b6&style=flat" alt="HajiliJavid" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=HajiliJavid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
@@ -25,6 +26,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HajiliJavid&" alt="HajiliJavid" /></p>
 <hr/>
 
-[![](https://visitcount.itsvg.in/api?id=HajiliJavid&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=HajiliJavid&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
