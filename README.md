@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="150" src="https://www.polytechnique-insights.com/wp-content/uploads/2024/01/ia-ih-foncee-1049x600.jpg" />
+<div align="center" style="width: 100%;">
+  <img height="150" src="https://cdn.mos.cms.futurecdn.net/VFLt5vHV7aCoLrLGjP9Qwm-650-80.jpg.webp" style="width: 100%; max-width: 650px;" />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Javid Hajili</h1>
 
