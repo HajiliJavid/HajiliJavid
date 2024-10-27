@@ -13,18 +13,18 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HajiliJavid&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi 👋, I'm Javid Hajili</h1>
 
 
 
 ###
 <div style="display: flex; flex-direction:row ; gap: "20" ; width="50%"; ">
-  <h3 align="left">👩💻  About Me</h3>
+  <h3 align="left">About Me</h3>
   <div>
   - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack         developer as well <br>
   - 🌱 I’m currently learning AI and Machine Learning <br>
