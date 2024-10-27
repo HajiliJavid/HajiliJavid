@@ -1,5 +1,5 @@
 <h2 align="center" >Hi 👋! My name is Javid</h2>
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; width="60%" ">
   <div>
   - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack         developer as well <br>
   - 🌱 I’m currently learning AI and Machine Learning <br>
@@ -12,7 +12,7 @@
 
   [![](https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img align="right" height="150" width="60%" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 <!---
