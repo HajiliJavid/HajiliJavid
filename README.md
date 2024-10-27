@@ -1,5 +1,5 @@
 <h2 align="center" >Hi 👋! My name is Javid</h2>
-<div >
+<div style="display: flex; gap: 20px;">
   <div>
   - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack         developer as well <br>
   - 🌱 I’m currently learning AI and Machine Learning <br>
