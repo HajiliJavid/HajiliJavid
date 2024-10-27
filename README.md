@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javid and I'm a software engineering/data science, from ....</h2>
+<h2 align="center" >Hi 👋! My name is Javid</h2>
 - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack developer as well
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on interesting StarUp projects
