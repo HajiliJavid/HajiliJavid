@@ -6,7 +6,6 @@
 - 😄 Pronouns: he/him <br>
 - ⚡ Fun fact: ... <be>
 
-![](https://github-contributor-stats.vercel.app/api?username=HajiliJavid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <!---
@@ -59,7 +58,7 @@ Tech Stack:
 
 
 ### 🔝 Top Contributed Repo
-
+![](https://github-contributor-stats.vercel.app/api?username=HajiliJavid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
