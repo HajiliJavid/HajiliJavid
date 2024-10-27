@@ -75,7 +75,7 @@ Tech Stack:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/toplangs/username=HajiliJavid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HajiliJavid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=HajiliJavid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 <br/><br/>
