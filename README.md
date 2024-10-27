@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting StarUp projects <br>
 - 📫 How to reach me hajilijavid2004@gmail.com <br>
 - 😄 Pronouns: he/him <br>
-- ⚡ Fun fact: ... <be>
+- ⚡ Fun fact: ... <br>
 [![](https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
