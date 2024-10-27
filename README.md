@@ -20,8 +20,7 @@
     - 📫 How to reach me: hajilijavid2004@gmail.com <br>
     - 😄 Pronouns: he/him <br>
     - ⚡ Fun fact: ...
-    <br>
-    <br>
+
     <a href="https://visitcount.itsvg.in" target="_blank">
       <img src="https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
     </a>
