@@ -11,7 +11,7 @@
 </div>
 
 <div style="text-align: center;">
-  <div style="display: inline-block; vertical-align: top; width: 45%; text-align: left;">
+  <div style="display: flex; vertical-align: top; width: 45%; text-align: left;">
     <h3>About Me</h3>
     <p>- 👀 I am a software engineer/data scientist</p>
     <p>- 🌱 I’m currently learning AI and Machine Learning</p>
