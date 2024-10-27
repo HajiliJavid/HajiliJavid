@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HajiliJavid
+<h2 align="left">Hi 👋! My name is Javid and I'm a software engineering/data science, from ....</h2>
 - 👀 I’ve learned software engineering/data science, and for the last 1 year I have been studing in several courses to be a Full stack developer as well
 - 🌱 I’m currently learning AI and Machine Learning
 - 💞️ I’m looking to collaborate on interesting StarUp projects
@@ -12,7 +12,7 @@
 HajiliJavid/HajiliJavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -84,6 +84,7 @@ Tech Stack:
 
 
 ### 🔝 Top Contributed Repo
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ![](https://github-contributor-stats.vercel.app/api?username=HajiliJavid&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
