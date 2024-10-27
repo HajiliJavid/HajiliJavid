@@ -1,56 +1,25 @@
-<div align="center" style="width: 100%;">
-  <img height="200" src="https://camo.githubusercontent.com/2af2d90f5c4b3f0e2749686cafe3336b93f62b48ed02bc21b1b02664efb7fac1/68747470733a2f2f7777772e696e746572616374696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f707572655f76735f707261676d617469635f61695f32303030783530302e6a7067" style="width: 100%; max-width: 650px;" />
-</div>
+![MasterHead](https://www.interactions.com/wp-content/uploads/2018/10/pure_vs_pragmatic_ai_2000x500.jpg)
+<h1 align="center">Hi 👋, I'm Farhad Aghayev</h1>
+<h3 align="center">I am a Software Developer/Data Scientist</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*LEH5tUEQReWe8Iu-UEV3Pg.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhadfreestyle&label=Profile%20views&color=0e75b6&style=flat" alt="farhadfreestyle" /> </p>
 
-<h1 align="center">Hi 👋, I'm Javid Hajili</h1>
+- 💬 Ask me about **Python, Data Science, Machine Learning**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-</div>
+- 📫 How to reach me **aghayev.farhad@outlook.com**
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; max-width: 800px; margin: auto;">
-  <div style="flex: 1; text-align: left;">
-    <h3>About Me</h3>
-    <p>- 👀 I am a software engineer/data scientist</p>
-    <p>- 🌱 I’m currently learning AI and Machine Learning</p>
-    <p>- 💞️ I’m looking to collaborate on interesting StartUp projects</p>
-    <p>- 📫 How to reach me: hajilijavid2004@gmail.com</p>
-    <p>- 😄 Pronouns: he/him</p>
-    <p>- ⚡ Fun fact: ...</p>
-    <br>
-    <a href="https://visitcount.itsvg.in" target="_blank">
-      <img src="https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
-    </a>
-  </div>
-  <div>
-    <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
-  </div>
-</div>
+- ⚡ Fun fact **I am a fast learner**
 
-## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/javid-hajili-7483b422b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://instagram.com/hajili_javid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100023371413056&locale=az_AZ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" />
-  </a>
-  <a href="mailto:hajilijavid2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/farhad-aghayev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhad-aghayev" height="30" width="40" /></a>
 
-# 💻 Tech Stack:
-<!-- Add your Tech Stack here -->
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajiliJavid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HajiliJavid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HajiliJavid&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadfreestyle&show_icons=true&locale=en&layout=compact" alt="farhadfreestyle" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhadfreestyle&show_icons=true&locale=en" alt="farhadfreestyle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhadfreestyle&" alt="farhadfreestyle" /></p>
