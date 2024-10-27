@@ -20,7 +20,7 @@
 ###
 
 
-<div style="display: flex; flex-direction:row ; gap: "20" ; width="50%"; ">
+<div style="display: flex; flex-direction: row; gap: 20px; width: 50%;">
   <h3 align="left">About Me</h3>
   <div>
   - 👀 I am a software engineering/data science <br>
