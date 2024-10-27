@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
 </div>
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; width: 100%; max-width: 800px; margin: auto;">
   <div style="flex: 1;">
     <h3 align="left">About Me</h3>
     - 👀 I am a software engineer/data scientist <br>
@@ -24,7 +24,7 @@
       <img src="https://visitcount.itsvg.in/api?id=HajiliJavid&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile Views">
     </a>
   </div>
-  <div style="display: flex; align-items: flex-start;">
+  <div>
     <img height="150" src="https://i.imgflip.com/65efzo.gif" style="margin-left: 20px;" />
   </div>
 </div>
